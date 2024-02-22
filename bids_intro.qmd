@@ -24,7 +24,7 @@ format:
     chalkboard:
       buttons: false
     preview-links: auto
-    logo: logo/BIDS_logo.png
+    logo: pics/BIDS_logo.png
     css: styles.css
     margin: 0.1
     smaller: true

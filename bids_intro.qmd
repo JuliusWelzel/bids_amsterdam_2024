@@ -345,7 +345,7 @@ gyro_z  GYRO    rad/s   222	    lf		    	    z             left_foot
 
 
 # Thank you for listening carefully{.sub-heading}
-![](pics/thanks.gif){fig-align="center" height="20%"}
+![](pics/thanks.gif){width="30%" fig-align="center"}
 
 
 [Thanks to Sein Jeung for pushing this to completion over the past three years]{.center-text}

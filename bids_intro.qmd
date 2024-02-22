@@ -68,7 +68,7 @@ format:
 -   Some metadata is better than no metadata
 :::
 
-## BIDS Brain Imaging Data Structure: What's in it for everyone{auto-animate="true"}
+## BIDS Brain Imaging Data Structure: What's in it for everyone?{auto-animate="true"}
 
 ::: {.fragment .fade-up}
 **BIDS comes with ...**
@@ -159,6 +159,8 @@ sub-002           12	  F
 
 ## Where do we want to go
 
+\
+
 ::: columns
 ::: {.column width="50%"}
 ![](pics/mobi.jpg)
@@ -231,7 +233,7 @@ Example motion data files
 -   One channel per column
 -   Match by order to `channels.tsv` file
 
-| acc_x | acc_y | acc_z | gyro_x | gyro_y | gyro_z|
+|  |  |  |  |   |   |
 |--------|--------|--------|--------|--------|--------|
 | 0.263  | 0.092  | 0.008  | 0.931  | 0.690  | 0.810  |
 | 0.695  | 0.192  | 0.844  | 0.398  | 0.885  | 0.895  |

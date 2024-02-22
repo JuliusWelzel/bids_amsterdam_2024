@@ -68,7 +68,7 @@ format:
 -   Some metadata is better than no metadata
 :::
 
-## BIDS Brain Imaging Data Structure: What's in it for the PIs{auto-animate="true"}
+## BIDS Brain Imaging Data Structure: What's in it for everyone{auto-animate="true"}
 
 ::: {.fragment .fade-up}
 **BIDS comes with ...**
@@ -79,12 +79,11 @@ format:
 :::
 
 ::: {.fragment .fade-up}
-**Help you team get there by ...**
+**How do you get started?**
 
--   introducing 'BIDS Bucks' for promoting BIDS adoption (coffee, chocolate, ...)
 -   assign a team member to be the Capt'n BIDS
 -   organise a BIDS workshop for your team
--   appreciate effort of members to adopt BIDS
+-   PI's have to activly encourage efforts of members to adopt BIDS
 :::
 
 ## Common principles
@@ -159,8 +158,6 @@ sub-002           12	  F
 :::
 
 ## Where do we want to go
-
-\
 
 ::: columns
 ::: {.column width="50%"}
